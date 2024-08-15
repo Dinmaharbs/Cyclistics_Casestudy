@@ -7,5 +7,5 @@ Cyclistics director of Marketing, Lily Moreno believes the company’s future su
 ## Data Source
 Cyclistic is a fictional company, for this reason I will be using [Divvy trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) for the first quarter of 2024.  For the purposes of this case study, the datasets are appropriate and will enable me answer the business question. The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).
 ### limitations
-* data-privacy issues prohibit me from using riders’ personally identifiable information. This means that I won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
+* Data-privacy issues prohibit me from using riders’ personally identifiable information. This means that I won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 * The presence of null values in columns containing the start and end station names is likely to affect the accuracy of any analysis relating to the stations i.e the most popular route for casual riders.
