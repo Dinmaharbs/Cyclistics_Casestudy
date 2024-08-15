@@ -1,4 +1,3 @@
-
 -- Prepare Data for analysis, save output as new table for analysis.
 -- ACTIVITY SUMMARY: unite trip data for q1-2024; remove duplicates (if any); remove unneeded columns; replace nulls in station name columns with 'N/A'; create new columns showing trip duration and trip duration in minutes; create new column showing day of week ride was started; concat start and end station to determine route; order table in ascending order by date and time trip was started.
 
@@ -20,7 +19,7 @@
     COALESCE(start_station_name,'N/A') AS start_station,
     COALESCE(end_station_name, 'N/A') AS end_station,
   FROM (
--- Combine the distinct rows from the 4 tables from January 2024 - April  2024 into a single table 
+--  use a subquery to combine the distinct rows from the 4 tables from January 2024 - April  2024 into a single table 
     SELECT
       DISTINCT *
     FROM
