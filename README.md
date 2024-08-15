@@ -1,3 +1,6 @@
 # Cyclistic Bike-Share Analysis Case Study
 ## Introduction
-This case study forms part of the capstone project for the Google Data Analytics Professional Certificate course. The case study is for a fictional bike sharing company, Cyclistic.
+This case study forms part of the capstone project for the Google Data Analytics Professional Certificate course. The case study is for a fictional bike sharing company, Cyclistic.  
+Launched in 2016, Cyclistics bike-sharing service has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.  
+Cyclistic’s marketing strategy relies on building general awareness and appealing to broad consumer segments. It offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.  
+Cyclistics director of Marketing, Lily Moreno believes the company’s future success depends on maximizing the number of annual memberships. As a Junior data analyst on the marketing analyst team, I have been assigned the task of understanding how casual riders and annual members use Cyclistic bikes differently. The goal of the project is to use these insights to design marketing strategies aimed at converting casual riders into annual member.
