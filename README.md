@@ -9,3 +9,7 @@ Cyclistic is a fictional company, for this reason I will be using [Divvy trip da
 ### limitations
 * Data-privacy issues prohibit me from using riders’ personally identifiable information. This means that I won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 * The presence of null values in columns containing the start and end station names is likely to affect the accuracy of any analysis relating to the stations i.e the most popular route for casual riders.
+## Business Question
+How do casual riders and annual members use Cyclistic bikes differently?
+### Goal
+Convert casual riders to annual members
