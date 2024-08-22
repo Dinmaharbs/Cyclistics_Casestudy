@@ -30,7 +30,7 @@ FROM `project-practice-417813.cyclistic_case_study.cyclistic-tripdata`
 GROUP BY member_casual, rideable_type
 ORDER BY rides_by_ridetype DESC
 
--- Number of trips by start station
+-- Number of trips by start station excluding missing start stations
 SELECT
   COUNT(ride_id) AS num_of_trips,
   member_casual,
