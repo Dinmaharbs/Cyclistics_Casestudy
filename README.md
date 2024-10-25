@@ -12,4 +12,5 @@ Cyclistic is a fictional company, for this reason I will be using [Divvy trip da
 ## Business Question
 How do casual riders and annual members use Cyclistic bikes differently?
 ### Goal
-Convert casual riders to annual members
+Convert casual riders to annual members  
+## Analysis and Findings
