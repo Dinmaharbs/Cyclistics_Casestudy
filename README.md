@@ -13,5 +13,8 @@ Cyclistic is a fictional company, for this reason I will be using [Divvy trip da
 How do casual riders and annual members use Cyclistic bikes differently?
 ### Goal
 Convert casual riders to annual members  
-## Analysis and Findings  
-Dataset was imported into Google BigQuery where it was prepared and cleaned using this SQL code: [Data Preparation and Cleaning](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Data_Preparation.sql)
+## Analysis 
+Data was uploaded into Google BigQuery where it was prepared and cleaned using this SQL code: [Data Preparation and Cleaning](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Data_Preparation.sql)  
+The resulting output was then saved in a new table and analysis carried out using this SQL code: [Data Analysis](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Data_Analysis.sql)  
+The outputs were then transferred to Tableau for visualization.  
+## Findings
