@@ -17,4 +17,5 @@ Convert casual riders to annual members
 Data was uploaded into Google BigQuery where it was prepared and cleaned using this SQL code: [Data Preparation and Cleaning](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Data_Preparation.sql)  
 The resulting output was then saved in a new table and analysis carried out using this SQL code: [Data Analysis](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Data_Analysis.sql)  
 The outputs were then transferred to Tableau for visualization.  
-## Findings
+## Findings  
+![Chart showing average trip duration of members](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet5_2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
