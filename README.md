@@ -26,7 +26,7 @@ The outputs were then transferred to Tableau for visualization.
 
 
 
-```{js, embedcode}
+```{js, embedcode, echo=FALSE}
                  
   var divElement = document.getElementById('viz1730051222287');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
