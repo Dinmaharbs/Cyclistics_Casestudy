@@ -19,4 +19,3 @@ The resulting output was then saved in a new table and analysis carried out usin
 The outputs were then transferred to Tableau for visualization.  
 ## Findings  
 
-<iframe src="https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet5_2?:embed=yes&:tabs=yes&:toolbar=yes" width="800" height="600"></iframe>
