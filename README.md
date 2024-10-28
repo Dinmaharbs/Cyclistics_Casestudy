@@ -19,10 +19,7 @@ The resulting output was then saved in a new table and analysis carried out usin
 The outputs were then transferred to Tableau for visualization.  
 ## Findings  
 
-```html
-<iframe src="https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet5_2?:showVizHome=no&:embed=true" width="800" height="600"></iframe>
-<param name="filter" value=":original_view=yes"/>
-```
+<img src="https://public.tableau.com/app/profile/chidinma.harbor/viz/Cyclistic-CaseStudy_17240607642300/Sheet5_1.png" alt="Chart showing members trips by rideable type" width="500" height="600">
 
-<iframe src=”https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet5_1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true”width=”800”height=”600”></iframe>
+[![trips by rideable type](https://public.tableau.com/app/profile/chidinma.harbor/viz/Cyclistic-CaseStudy_17240607642300/Sheet5_1.png)](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet5_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
