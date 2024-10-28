@@ -18,7 +18,7 @@ Data was uploaded into Google BigQuery where it was prepared and cleaned using t
 The resulting output was then saved in a new table and analysis carried out using this SQL code: [Data Analysis](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Data_Analysis.sql)  
 The outputs were then transferred to Tableau for [visualization](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).  
 ## Findings  
-The data shows that over 73% of trips where undertaken by annual members, this supports the assertion that maximizing the number of annual memberships is key to business success.
+The data shows that over 73% of trips were undertaken by annual members, this supports the assertion that maximizing the number of annual memberships is key to business success.
 
 [![Total rides by members](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Total%20Rides.png)](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
@@ -26,7 +26,7 @@ Although annual members take more trips than casual members, the data shows that
 
 [![Members average trip duration](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Average%20trip%20duration.png)](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet5_2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-The number of trips started by annual members is highest on tuesday and remains on a relative high on monday, wednesday and thursday it begins to drop on friday and continues to drop through out the weekend. In contrast, trips by casual members is highest on saturday, it begins to gradually drop from then and is at its lowest by mid-week.
+The number of trips started by annual members are highest on tuesday and remain on a relative high on monday, wednesday and thursday it begins to drop on friday and continues to drop through out the weekend. In contrast, trips by casual members are highest on saturday, it begins to gradually drop from then and is at its lowest by mid-week.
 
 [![Trips by day of the week](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Trips%20by%20Day%20of%20Week.png)](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/dayofweektrips?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
@@ -40,7 +40,7 @@ The most popular start station for annual members is Clinton St & Washington Blv
 
 [![Popular start stations for casual members](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Most%20Popular%20Start_stations%20(casual%20members).png)](https://public.tableau.com/shared/RH9WYB77C?:display_count=n&:origin=viz_share_link)
 ## Conclusion  
-Annual members use cyclistic bike service more than casual users. Annual members use cyclistic bikes for short likely work related commutes during the week while casual members use cyclistic bikes for longer likely related to recreational purposes over the weekend.
+Annual members use cyclistic bike service more than casual users. Annual members use cyclistic bikes for short likely work related commutes during the week while casual members use cyclistic bikes for longer likely recreational purposes over the weekend.
 Annual members prefer classic bikes while casual members have a preference for electric bikes.
 ## Recommendations  
 * A membership signup discount for members with trip duration above the average trip duration to encourage casual members to sign up for annual memberships.
