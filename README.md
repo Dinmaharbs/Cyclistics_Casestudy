@@ -34,13 +34,13 @@ While annual members prefer classic bikes over electric bikes, casual members pe
 
 [![Trips by ride type](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Members%20trips%20by%20ridetype.png)](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet5_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-The most popular start station for annual members is Clinton St & Washington Blvd with    rides started there while the most popular start station for casual members is Streeter Dr & Grand Ave with  rides started there.
+The most popular start station for annual members is Clinton St & Washington Blvd with 7,799 rides started there while the most popular start station for casual members is Streeter Dr & Grand Ave with 6,094 rides started there.
 
 [![Popular start stations for annual members](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Most%20Popular%20Start_stations%20(annual%20members).png)](https://public.tableau.com/shared/355XD79MM?:display_count=n&:origin=viz_share_link)
 
 [![Popular start stations for casual members](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Most%20Popular%20Start_stations%20(casual%20members).png)](https://public.tableau.com/shared/RH9WYB77C?:display_count=n&:origin=viz_share_link)
 ## Conclusion  
-A annual members use cyclistic bike service more than casual users. Annual members use cyclistic bikes for short likely work related commutes during the week while casual members use cyclistic bikes for longer likely related to recreational purposes over the weekend.
+Annual members use cyclistic bike service more than casual users. Annual members use cyclistic bikes for short likely work related commutes during the week while casual members use cyclistic bikes for longer likely related to recreational purposes over the weekend.
 Annual members prefer classic bikes while casual members have a preference for electric bikes.
 ## Recommendations  
 * A membership signup discount for members with trip duration above the average trip duration to encourage casual members to sign up for annual memberships.
