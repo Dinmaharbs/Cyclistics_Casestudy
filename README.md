@@ -16,10 +16,18 @@ Convert casual riders to annual members
 ## Analysis 
 Data was uploaded into Google BigQuery where it was prepared and cleaned using this SQL code: [Data Preparation and Cleaning](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Data_Preparation.sql)  
 The resulting output was then saved in a new table and analysis carried out using this SQL code: [Data Analysis](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Data_Analysis.sql)  
-The outputs were then transferred to Tableau for visualization.  
+The outputs were then transferred to Tableau for [visualization](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).  
 ## Findings  
 
-<img src="https://public.tableau.com/app/profile/chidinma.harbor/viz/Cyclistic-CaseStudy_17240607642300/Sheet5_1.png" alt="Chart showing members trips by rideable type" width="500" height="600">
+[![Trips by ride type](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Members%20trips%20by%20ridetype.png)](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet5_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[![trips by rideable type](https://public.tableau.com/app/profile/chidinma.harbor/viz/Cyclistic-CaseStudy_17240607642300/Sheet5_1.png)](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet5_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Total rides by members](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Total%20Rides.png)](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[![Members average trip duration](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Average%20trip%20duration.png)](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/Sheet5_2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[![Trips by day of the week](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Trips%20by%20Day%20of%20Week.png)](https://public.tableau.com/views/Cyclistic-CaseStudy_17240607642300/dayofweektrips?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[![Popular start stations for annual members](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Most%20Popular%20Start_stations%20(annual%20members).png)](https://public.tableau.com/shared/355XD79MM?:display_count=n&:origin=viz_share_link)
+
+[![Popular start stations for casual members](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Most%20Popular%20Start_stations%20(casual%20members).png)](https://public.tableau.com/shared/RH9WYB77C?:display_count=n&:origin=viz_share_link)
 
