@@ -40,5 +40,8 @@ The most popular start station for annual members is Clinton St & Washington Blv
 
 [![Popular start stations for casual members](https://github.com/Dinmaharbs/Cyclistics_Casestudy/blob/main/Visualizations/Most%20Popular%20Start_stations%20(casual%20members).png)](https://public.tableau.com/shared/RH9WYB77C?:display_count=n&:origin=viz_share_link)
 ## Conclusion  
+A annual members use cyclistic bike service more than casual users. Annual members use cyclistic bikes for short likely work related commutes during the week while casual members use cyclistic bikes for longer likely related to recreational purposes over the weekend.
+Annual members prefer classic bikes while casual members have a preference for electric bikes.
+## Recommendations  
 
 
